@@ -1,0 +1,20 @@
+name = "librel_ant_parser_jll"
+uuid = "f30bf88c-a969-5e45-b2c9-3eb7c20c1c7d"
+version = "0.0.1+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Antlr4CppRuntime_jll = "642bff37-c5db-510f-b67c-24692d406d7f"
+Libuuid_jll = "38a345b3-de98-5d2b-a5d3-14cd9215e700"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+protoc_jll = "c7845625-083e-5bbe-8504-b32d602b7110"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.10"
+Antlr4CppRuntime_jll = "4.9.3"
+Libuuid_jll = "2.40.1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
+protoc_jll = "26.1.0"

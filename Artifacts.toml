@@ -1,0 +1,28 @@
+[[librel_ant_parser]]
+arch = "aarch64"
+git-tree-sha1 = "c6d0177b1a093acde8213b835b6ddba3771c93e0"
+os = "macos"
+
+    [[librel_ant_parser.download]]
+    sha256 = "23efc4a717b7abd52a74067fbb089c6751f37788bfddf341ecad5217108555a9"
+    url = "https://github.com/RelationalAI/librel_ant_parser_jll.jl/releases/download/librel_ant_parser-v0.0.1+0/librel_ant_parser.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[librel_ant_parser]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "290d2f2f11623225d2580a2ad9c5df04dd75fde9"
+libc = "glibc"
+os = "linux"
+
+    [[librel_ant_parser.download]]
+    sha256 = "9dee8bccee64ed359336c10fb507d879b2d24f01d5b25627e6bfe3b5e8ef9c90"
+    url = "https://github.com/RelationalAI/librel_ant_parser_jll.jl/releases/download/librel_ant_parser-v0.0.1+0/librel_ant_parser.v0.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[librel_ant_parser]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d369db995848b682aeaab8ff53228a9817307f96"
+libc = "glibc"
+os = "linux"
+
+    [[librel_ant_parser.download]]
+    sha256 = "f5dc14e09b2c1a7c31031be5934ca751762de9cb40ed3be7c734cb7abed39714"
+    url = "https://github.com/RelationalAI/librel_ant_parser_jll.jl/releases/download/librel_ant_parser-v0.0.1+0/librel_ant_parser.v0.0.1.x86_64-linux-gnu-cxx11.tar.gz"
